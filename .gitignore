@@ -1,0 +1,8 @@
+/Ref/
+*.zip
+*.txt
+.env
+*.csv
+*.pcap
+/csv/
+.ipynb_checkpoints
