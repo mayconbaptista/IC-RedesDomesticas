@@ -1,5 +1,5 @@
 """
-qua 16 nov 2022 # colete 5 min dedados salve em uma arq pcap entenda as features,
+qua 16 nov 2022 # colete 5 min de dados salve em uma arq pcap entenda as features,
 gere um arquivo csv crie um data framim e faça analizes estatisticas sobre os dados extraidos,
 monte um histograma.
 *  o que é um fulho e o que representa esse fluxo?
