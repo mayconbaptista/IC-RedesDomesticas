@@ -6,3 +6,5 @@
 *.pcap
 /csv/
 .ipynb_checkpoints/
+/pcaps/
+/Relatorios/
